@@ -1,5 +1,3 @@
-Certainly! Here's the updated README file with the credit to Sanyu Project World and a link to their YouTube channel:
-
 ---
 
 # Eye-Controlled Mouse using OpenCV
