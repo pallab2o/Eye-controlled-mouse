@@ -19,17 +19,10 @@ This project aims to create an eye-controlled mouse using the inbuilt camera of 
 
 - Python 3.x
 - OpenCV library (`opencv-python`)
+- Webcam
 
 ## Installation
-
-1. Clone the repository:
-
-    ```
-    git clone https://github.com/your_username/eye-controlled-mouse.git
-    cd eye-controlled-mouse
-    ```
-
-2. Install dependencies:
+Install dependencies:
 
     ```
     pip install opencv-python
