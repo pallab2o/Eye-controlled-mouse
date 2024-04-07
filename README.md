@@ -1,7 +1,5 @@
----
-
 # Eye-Controlled Mouse using OpenCV
-
+---
 This project aims to create an eye-controlled mouse using the inbuilt camera of a computer and OpenCV for image processing. By tracking the user's eye movements, the mouse cursor can be controlled, providing an alternative input method for individuals with limited mobility.
 
 ## Features
@@ -17,15 +15,20 @@ This project aims to create an eye-controlled mouse using the inbuilt camera of 
 
 - Python 3.x
 - OpenCV library (`opencv-python`)
-- Webcam
 
 ## Installation
-Install dependencies:
+
+1. Clone the repository:
 
     ```
-    pip install opencv-python
-    pip install mediapipe
-    pip install pyautogui
+    git clone https://github.com/your_username/eye-controlled-mouse.git
+    cd eye-controlled-mouse
+    ```
+
+2. Install dependencies:
+
+    ```
+    pip install -r requirements.txt
     ```
 
 ## Usage
