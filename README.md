@@ -22,7 +22,7 @@ This project aims to create an eye-controlled mouse using the inbuilt camera of 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/eye-controlled-mouse.git
+git clone https://github.com/pallab2o/eye-controlled-mouse.git
 cd eye-controlled-mouse
 ```
 
